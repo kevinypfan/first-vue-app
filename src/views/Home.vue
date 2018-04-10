@@ -2,6 +2,7 @@
   <div class="home">
     <img src="../assets/logo.png">
     <HelloWorld msg="Hello Vue"/>
+    <HelloWorld msg="Mr. Chou"/>
   </div>
 </template>
 
